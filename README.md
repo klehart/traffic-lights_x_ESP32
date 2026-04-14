@@ -2,8 +2,6 @@
 
 I built this project for our local youth club ("Jugendraum", or "Jura" for short). The entire hardware setup is mounted inside a real, physical traffic light enclosure! It uses an ESP32 to provide a web interface for manual control and a sound-reactive mode using a microphone.
 
-![Project Image](aaa.png)
-
 ## ⚠️ Disclaimer
 **I am fully aware that this code is messy.** It was built to get the job done and is a collection of various experimental features. It's not a masterpiece of software architecture, but it works and makes the lights look cool in our club!
 
